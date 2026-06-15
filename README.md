@@ -111,4 +111,4 @@ python src/classify.py      # train classifiers and print accuracy
 
 ## Notes
 
-This is a learning project built with AI assistance. The classifier, web app, and the multi-subject comparison feature were developed and debugged hands-on, and the BCI-illiteracy finding came from actually running the comparison across subjects and interpreting the spread.
+This is a learning project. The classifier, web app, and the multi-subject comparison feature were developed and debugged hands-on, and the BCI-illiteracy finding came from actually running the comparison across subjects and interpreting the spread.
